@@ -1,5 +1,4 @@
-# Bolt Stock Exchange
-
+# Chart UI Stock Market
 A modern stock exchange UI application built with React, TypeScript, and Vite.
 
 ## Features
